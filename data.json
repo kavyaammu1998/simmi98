@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"1313183-rose.jpg",
+    "name":"simran",
+    "email":"simranshaikak@gmail.com",
+    "mobile":"9515506449"
+  },
+  "education":[
+    {
+      "course":"B.tech(Computer Science and Engineering)",
+      "college":[
+        "G.pullaiah college of Engineering",
+        "2015-2019",
+        "70"
+
+      ]
+    },
+    {
+    "course": "Intermediate",
+    "college":[
+      "narayana jr college",
+      "2013-2015",
+      "90"
+  ]
+},
+{
+"course": "SSC",
+"college":[
+  " vikas vidyanikathan high school",
+  "2013",
+  "90"
+]
+}
+]
+}
