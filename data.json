@@ -26,10 +26,25 @@
 {
 "course": "SSC",
 "college":[
-  " vikas vidyanikathan high school",
+  "vikas vidyanikathan high school",
   "2013",
   "90"
 ]
 }
-]
-}
+],
+"skills":[
+  {
+    "name":"web technologies",
+    "value":"HTML,CSS"
+  },
+  {
+    "name":"operating Systems",
+    "value":"windows,linux"
+  },
+  {
+    "name":"programming languages",
+    "value":"C,C++,JAVA"
+  }
+
+    ]
+  }
